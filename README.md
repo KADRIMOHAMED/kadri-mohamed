@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  📍 <a href="#">Voir le site en ligne</a> ·
+  📍 <a href="https://kadrimohamed.github.io/kadri-mohamed/">Voir le site en ligne</a> ·
   💼 <a href="https://www.linkedin.com/in/kadrimohamed/">LinkedIn</a> ·
   ✉️ <a href="mailto:kadrimed95@gmail.com">Contact</a>
 </p>
@@ -44,7 +44,6 @@ L'objectif : offrir une vitrine claire et rapide à consulter pour les recruteur
   <img src="assets/screenshots/portfolio-preview.png" alt="Aperçu du portfolio" width="700">
 </p>
 
-*(Remplacer l'image ci-dessus par une capture d'écran à jour du site, à placer dans `assets/screenshots/`.)*
 
 ## Fonctionnalités
 
